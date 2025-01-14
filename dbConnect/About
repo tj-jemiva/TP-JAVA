@@ -1,0 +1,5 @@
+#Dans ce projet, nous allons voir comment établir une connexion à la base de donnée MySQL avec la programmation JAVA.
+#ETAPES A SUIVRE
+#1:
+#Télécharger le connecteur MySQL JDBC sur ce lien
+#https://dev.mysql.com/downloads/connector/j/
