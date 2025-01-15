@@ -26,3 +26,4 @@ javac *.java
 java ServeurRMI
 3.Lancer le client (dans un autre terminal) :
 java ClientRMI
+
